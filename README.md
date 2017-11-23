@@ -58,6 +58,10 @@ Get [your own API key](https://translate.yandex.com/developers/keys) first.
 
 ```
 
+## Thanks
+
+To [nkt](https://github.com/nkt) and his nicely written [`yandex.translate`](https://github.com/nkt/yandex.translate).
+
 ## Links
 
 * Your keys: https://translate.yandex.com/developers/keys
