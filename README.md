@@ -1,6 +1,6 @@
 # ya-translate
 
-Node.js module for [Yandex Translate API's](https://tech.yandex.com/translate/) `translate` method.
+Node.js module for [Yandex Translate API's](https://tech.yandex.com/translate/doc/dg/reference/translate-docpage/) [`translate` method](https://tech.yandex.com/translate/doc/dg/reference/translate-docpage/).
 
 
 ```bash
