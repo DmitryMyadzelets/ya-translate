@@ -1,0 +1,28 @@
+{
+  "name": "ya-translate",
+  "version": "1.0.0",
+  "description": "Simple Yandex Translate module for Node.js with Promise",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node tests/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DmitryMyadzelets/ya-translate.git"
+  },
+  "keywords": [
+    "Yandex",
+    "translate",
+    "node",
+    "Promise"
+  ],
+  "author": "Dmitry Myadzelets",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DmitryMyadzelets/ya-translate/issues"
+  },
+  "homepage": "https://github.com/DmitryMyadzelets/ya-translate#readme"
+}
