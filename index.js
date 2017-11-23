@@ -1,8 +1,5 @@
 'use strict'
 
-// Statistics: https://translate.yandex.com/developers/stat
-// Your keys: https://translate.yandex.com/developers/keys
-
 const https = require('https')
 const qs = require('querystring')
 
