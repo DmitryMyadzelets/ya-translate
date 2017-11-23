@@ -6,6 +6,10 @@ Node.js module for [Yandex Translate API](https://tech.yandex.com/translate/)
 npm install ya-translate --save
 ```
 
+Get [your own API key](https://translate.yandex.com/developers/keys) first.
+
+## How to use
+
 ```javascript
   const translate = require('ya-translate')(YOUR-API-KEY)
 
@@ -46,7 +50,7 @@ npm install ya-translate --save
 
   // Can translate many texts at once
 
-  translate(({lang: 'zh-en', text: ['开源', '软件']})
+  translate(({lang: 'zh-en', text: ['\u5F00\u6E90', '\u8F6F\u4EF6']})
     .then(console.log)
     .catch(console.error)
   // { code: 200, lang: 'zh-en', text: [ 'Open source', 'Software' ] }
