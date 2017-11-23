@@ -1,6 +1,7 @@
 # ya-translate
 
-Node.js module for [Yandex Translate API](https://tech.yandex.com/translate/)
+Node.js module for [Yandex Translate API's](https://tech.yandex.com/translate/) `translate` method.
+
 
 ```bash
 npm install ya-translate --save
